@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Rotonda';
+    src: url('/RotondaC.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    font-family: 'Rotonda', sans-serif;
+}
